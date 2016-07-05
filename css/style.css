@@ -217,9 +217,8 @@ nav {
   position: relative;
   left: 80%;
   float: left;
-  min-height:540px;
+  height:540px;
   overflow: hidden;
-
 }
 
 .content-left {
